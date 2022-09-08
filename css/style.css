@@ -1,0 +1,15 @@
+ul {
+    list-style-type: none;
+}
+
+.reussite {
+    border: 1px solid grey;
+    padding: 4%;
+    margin: 2%;
+    border-radius: 2px;
+}
+.vivre {
+    border: 1px solid grey;
+    padding: 4%;
+    margin: 2%;
+}
