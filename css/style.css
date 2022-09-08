@@ -1,3 +1,40 @@
+
+body {
+    background-color: rgb(239, 233, 223);
+}
+
+    
+
+header 
+{background-color: white;
+     border-bottom: solid; border-width: 1px; box-shadow: 1px 1px 1px grey;
+    
+}
+   
+.intro
+{
+    padding-top:10px;
+    padding-right:50%
+}
+.lien_charte{
+   display: flexbox;
+   position: relative;
+   top: -80px;
+    color:white;
+    border-style:solid;
+    border-width:5px;
+    border-color: brown;
+    background-color: brown;
+    margin-left: 75%;
+    margin-right: 130px;
+    text-align: center;
+    border-radius: 3px;
+    
+}
+a{
+    color:white
+}
+
 ul {
     list-style-type: none;
 }
@@ -12,4 +49,3 @@ ul {
     border: 1px solid grey;
     padding: 4%;
     margin: 2%;
-}
