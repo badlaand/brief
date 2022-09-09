@@ -1,6 +1,6 @@
 
 body {
-    background-color: rgb(239, 233, 223);
+    background-color: aliceblue;
 }
 
     
@@ -44,8 +44,32 @@ ul {
     padding: 4%;
     margin: 2%;
     border-radius: 2px;
+    background-color: azure;
+    border-radius: 10px;
+    
 }
+
 .vivre {
     border: 1px solid grey;
     padding: 4%;
     margin: 2%;
+    background-color: azure;
+    border-radius: 10px;
+}
+
+h4{
+    font-weight: bold;
+    
+}
+
+h5 {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+h6 {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+
