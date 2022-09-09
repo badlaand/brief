@@ -49,7 +49,7 @@ ul {
     
 }
 
-.vivre {
+#vivre {
     border: 1px solid grey;
     padding: 4%;
     margin: 2%;
@@ -62,7 +62,7 @@ h4{
     
 }
 
-h5 {
+.titre {
     font-size: x-large;
     font-weight: bold;
 }
@@ -72,4 +72,6 @@ h6 {
     font-weight: bold;
 }
 
-
+.bouton2 {
+   
+}
