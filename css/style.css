@@ -1,38 +1,14 @@
-
 body {
     background-color: aliceblue;
 }
-
-    
-
 header 
 {background-color: white;
      border-bottom: solid; border-width: 1px; box-shadow: 1px 1px 1px grey;
     
 }
-.lien_charte{
-   display: flexbox;
-   position: relative;
-   top: -80px;
-    color:white;
-    border-style:solid;
-    border-width: 20px;
-    border-color: brown;
-    background-color: brown;
-    margin-left: 75%;
-    margin-right: 130px;
-    text-align: center;
-    border-radius: 3px;
-    
-}
-a{
-    color:white
-}
-
 ul {
     list-style-type: none;
 }
-
 #reussite {
     border: 1px solid grey;
     padding: 4%;
@@ -41,9 +17,7 @@ ul {
     background-color: azure;
     border-radius: 10px;
     box-shadow: 1px 1px 1px grey;
-    
 }
-
 #vivre {
     border: 1px solid grey;
     padding: 4%;
@@ -52,26 +26,18 @@ ul {
     border-radius: 10px;
     box-shadow: 1px 1px 1px grey;
 }
-
 h4{
     font-weight: bold;
-    
-}
-
+    }
 .titre {
     font-size: x-large;
     font-weight: bold;
 }
-
-
-
 .lien_charte {
     box-shadow: 1px 1px 1px grey;
-
 }
 #boutoncharte {
     background-color: brown; color: white;
-
 }
 .promo {
     font-size: 30px; font-weight: bold;

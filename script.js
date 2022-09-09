@@ -7,6 +7,6 @@ function cache_affiche(ok1, okPlusMoins){
         else
         {
                 document.getElementById(ok1).style.display='none';
-                document.getElementById(okPlusMoins).value = '+';
+                document.getElementById(okPlusMoins).value = '+'
         }
     };
