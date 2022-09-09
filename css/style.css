@@ -10,12 +10,6 @@ header
      border-bottom: solid; border-width: 1px; box-shadow: 1px 1px 1px grey;
     
 }
-   
-.intro
-{
-    padding-top:10px;
-    padding-right:50%
-}
 .lien_charte{
    display: flexbox;
    position: relative;
