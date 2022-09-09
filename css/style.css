@@ -39,7 +39,7 @@ ul {
     list-style-type: none;
 }
 
-.reussite {
+#reussite {
     border: 1px solid grey;
     padding: 4%;
     margin: 2%;
@@ -69,10 +69,7 @@ h4{
     font-weight: bold;
 }
 
-h6 {
-    font-size: x-large;
-    font-weight: bold;
-}
+
 
 .lien_charte {
     box-shadow: 1px 1px 1px grey;
