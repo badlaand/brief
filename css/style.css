@@ -71,5 +71,12 @@ h4{
 }
 #boutoncharte {
     background-color: brown; color: white;
-}
 
+}
+.promo {
+    font-size: 30px; font-weight: bold;
+}
+.bout {
+    padding-top: 10px;
+    position: relative; right: -120px;
+}
