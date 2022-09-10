@@ -1,28 +1,32 @@
+
+    
+    
+    
 body {
-    background-color: aliceblue;
+    background-color:#f3f6f8
 }
 header 
 {background-color: white;
-     border-bottom: solid; border-width: 1px; box-shadow: 1px 1px 1px grey;
+     border-bottom; border-width: 1px; box-shadow: 1px 1px 1px #e6e9ea;
     
 }
 ul {
     list-style-type: none;
 }
 #reussite {
-    border: 1px solid grey;
+    border: 1px grey;
     padding: 4%;
     margin: 2%;
     border-radius: 2px;
-    background-color: azure;
+    background-color: #ffffff;
     border-radius: 10px;
     box-shadow: 1px 1px 1px grey;
 }
 #vivre {
-    border: 1px solid grey;
+    border: 1px grey;
     padding: 4%;
     margin: 2%;
-    background-color: azure;
+    background-color:#ffffff;
     border-radius: 10px;
     box-shadow: 1px 1px 1px grey;
 }
@@ -33,16 +37,21 @@ h4{
     font-size: x-large;
     font-weight: bold;
 }
-.lien_charte {
-    box-shadow: 1px 1px 1px grey;
-}
+
 #boutoncharte {
-    background-color: brown; color: white;
+    background-color: #e40034; color: white; position: relative;
+    left: 110px;
 }
 .promo {
-    font-size: 30px; font-weight: bold;
+    font-size:20px; font-weight: bold; 
+    text-align: center;
 }
-.bout {
-    padding-top: 10px;
-    position: relative; right: -120px;
+
+
+.container1 {
+    padding-top: 40px;
 }
+
+
+    
+
