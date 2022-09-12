@@ -1,57 +1,52 @@
-
-    
-    
-    
 body {
-    background-color:#f3f6f8
+  background-color: #f3f6f8;
 }
-header 
-{background-color: white;
-     border-bottom: 1px; border-width: 1px; box-shadow: 1px 1px 1px #e6e9ea;
-    
+header {
+  background-color: white;
+  border-bottom: 1px;
+  border-width: 1px;
+  box-shadow: 1px 1px 1px #e6e9ea;
 }
 ul {
-    list-style-type: none;
+  list-style-type: none;
 }
 #reussite {
-    border: 1px grey;
-    padding: 4%;
-    margin: 2%;
-    border-radius: 2px;
-    background-color: #ffffff;
-    border-radius: 10px;
-    box-shadow: 1px 1px 1px grey;
+  border: 1px grey;
+  padding: 4%;
+  margin: 2%;
+  border-radius: 2px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px grey;
 }
 #vivre {
-    border: 1px grey;
-    padding: 4%;
-    margin: 2%;
-    background-color:#ffffff;
-    border-radius: 10px;
-    box-shadow: 1px 1px 1px grey;
+  border: 1px grey;
+  padding: 4%;
+  margin: 2%;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px grey;
 }
-h4{
-    font-weight: bold;
-    }
+h4 {
+  font-weight: bold;
+}
 .titre {
-    font-size: x-large;
-    font-weight: bold;
+  font-size: x-large;
+  font-weight: bold;
 }
 
 #boutoncharte {
-    background-color: #e40034; color: white; position: relative;
-    left: 110px;
+  background-color: #e40034;
+  color: white;
+  position: relative;
+  left: 110px;
 }
 .promo {
-    font-size:20px; font-weight: bold; 
-    text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
 }
-
 
 .container1 {
-    padding-top: 40px;
+  padding-top: 40px;
 }
-
-
-    
-
