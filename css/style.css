@@ -1,11 +1,15 @@
 body {
   background-color: #f3f6f8;
 }
-header {
+.header {
   background-color: white;
   border-bottom: 1px;
   border-width: 1px;
   box-shadow: 1px 1px 1px #e6e9ea;
+  position: fixed;
+  width: 100%;
+  font-weight: bold;
+  z-index: 1;
 }
 ul {
   list-style-type: none;
@@ -27,9 +31,7 @@ ul {
   border-radius: 10px;
   box-shadow: 1px 1px 1px grey;
 }
-h4 {
-  font-weight: bold;
-}
+
 .titre {
   font-size: x-large;
   font-weight: bold;
@@ -40,6 +42,7 @@ h4 {
   color: white;
   position: relative;
   left: 110px;
+  justify-content: center;
 }
 .promo {
   font-size: 20px;
@@ -49,4 +52,11 @@ h4 {
 
 .container1 {
   padding-top: 40px;
+  margin-top: 80px;
+  background-color: #e40034;
+  display: inline-block;
+}
+.container2 {
+  padding-top: 40px;
+  background-color: black;
 }
