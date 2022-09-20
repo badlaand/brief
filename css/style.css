@@ -1,27 +1,25 @@
 body {
   background-color: #f3f6f8;
 }
-.header {
+header {
   background-color: white;
   border-bottom: 1px;
   border-width: 1px;
-  box-shadow: 1px 1px 1px #e6e9ea;
+  box-shadow: 10px 10px 10px #e6e9ea;
   position: fixed;
   width: 100%;
-  font-weight: bold;
   z-index: 1;
 }
 ul {
   list-style-type: none;
 }
 #reussite {
-  border: 1px grey;
+  border: 1px #a6a9aa;
   padding: 4%;
   margin: 2%;
-  border-radius: 2px;
   background-color: #ffffff;
   border-radius: 10px;
-  box-shadow: 1px 1px 1px grey;
+  box-shadow: 10px 10px 10px #e6e9ea;
 }
 #vivre {
   border: 1px grey;
@@ -29,12 +27,7 @@ ul {
   margin: 2%;
   background-color: #ffffff;
   border-radius: 10px;
-  box-shadow: 1px 1px 1px grey;
-}
-
-.titre {
-  font-size: x-large;
-  font-weight: bold;
+  box-shadow: 10px 10px 10px #e6e9ea;
 }
 
 #boutoncharte {
@@ -54,4 +47,15 @@ ul {
   padding-top: 40px;
   margin-top: 80px;
   display: inline-block;
+}
+
+table {
+  background-color: white;
+}
+.titre {
+  margin-bottom: 10%;
+  font-size: 1.5em;
+}
+h1 {
+  font-size: 100%;
 }
